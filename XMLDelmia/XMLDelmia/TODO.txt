@@ -1,0 +1,27 @@
+﻿1. Ładowanie XMLa
+	- W jaki sposób obsłużymy dane?
+		LINQ / XmlDocument 
+2. Operacja
+	a) Mirrorowanie robotów
+		-Wybór poszczególnych tasków do zmirrorowania
+			*co jeżeli takie taski już istnieją? czy trzeba je usunąć?  
+			*co jeżeli punkty w tasku istnieją już w istniejącej taggrupie - czy usunąć? albo zmienić nazwę?
+
+
+		-Czy mirrorujemy tylko punkty czy jeszcze bazy?
+		-mirrorowanie externali
+		-mirrorrowanie TCP
+
+		-czy przepisać parametry
+		-czy przepisać toole
+		-czy rpzepisać bazy
+		-czy zmieniać nazwy tagów i grup?
+
+	b) Kopiowanie robotów z innego XML
+		
+
+3. Zmiana danych
+		-przeliczanie? 
+		-zapis przez LINQ / XmlDocument
+		-
+3. Zapis XMLa
